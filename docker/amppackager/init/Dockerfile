@@ -37,3 +37,5 @@ COPY *.toml ./
 ENV C2D_RELEASE=1.0.0
 
 CMD ["/bin/bash", "-c", "./deploy.sh"]]
+
+

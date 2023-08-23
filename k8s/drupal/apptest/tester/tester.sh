@@ -43,3 +43,5 @@ if [[ "${ENABLE_PUBLIC_SERVICE_AND_INGRESS}" == true ]]; then
     testrunner -logtostderr "--test_spec=${test}"
   done
 fi
+
+

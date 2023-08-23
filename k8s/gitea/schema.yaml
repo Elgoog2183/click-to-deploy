@@ -117,3 +117,5 @@ required:
 - enablePublicServiceAndIngress
 - metrics.exporter.enabled
 - certificate
+
+

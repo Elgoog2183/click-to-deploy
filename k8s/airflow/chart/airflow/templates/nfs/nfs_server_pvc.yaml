@@ -41,3 +41,5 @@ spec:
     server: {{ .Release.Name }}-nfs-server.{{ .Release.Namespace }}.svc.cluster.local
     path: "/"
 
+
+

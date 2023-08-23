@@ -77,3 +77,4 @@ spec:
       - name: mancenter-storage
         persistentVolumeClaim:
           claimName: {{ .Release.Name }}-mancenter-pvc
+

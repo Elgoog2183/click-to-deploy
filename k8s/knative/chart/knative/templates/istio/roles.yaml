@@ -840,3 +840,4 @@ subjects:
     name: istiod-service-account
     namespace: "{{ .Release.Namespace }}"
 
+

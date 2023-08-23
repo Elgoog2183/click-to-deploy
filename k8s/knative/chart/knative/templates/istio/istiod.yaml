@@ -232,3 +232,4 @@ spec:
     matchLabels:
       app: istiod
       istio: pilot 
+

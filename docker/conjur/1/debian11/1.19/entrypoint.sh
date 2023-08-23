@@ -6,3 +6,5 @@ if [[ "$@" =~ "conjurctl server" ]] && [[ -z ${CONJUR_DATA_KEY} ]]; then
 fi
 
 exec "$@"
+
+

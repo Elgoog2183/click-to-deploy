@@ -163,3 +163,5 @@ These are the filesystem paths used by the container image.
 | **Path** | **Description** |
 |:---------|:----------------|
 |/sites| Django websites are installed here. |
+
+

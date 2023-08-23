@@ -10,3 +10,5 @@ if [[ "${response}" != "PONG" ]] && [[ "${response}" != "LOADING Redis is loadin
   echo "${response}"
   exit 1
 fi
+
+

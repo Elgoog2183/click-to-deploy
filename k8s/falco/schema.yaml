@@ -91,3 +91,5 @@ required:
 - namespace
 - falco.priority
 - metrics.exporter.enabled
+
+

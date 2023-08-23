@@ -30,3 +30,5 @@ tests:
   expect:
     stdout:
       matches: "^workflow-controller: v(\\d+)\\.(\\d+)\\.(\\d+)"
+
+

@@ -112,3 +112,4 @@ required:
 - postgresql.persistence.size
 - enablePublicServiceAndIngress
 - certificate
+

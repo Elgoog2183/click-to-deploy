@@ -127,3 +127,5 @@ required:
 - drupal.persistence.size
 - enablePublicServiceAndIngress
 - metrics.exporter.enabled
+
+

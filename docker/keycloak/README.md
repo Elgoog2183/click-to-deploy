@@ -190,3 +190,4 @@ These are the filesystem paths used by the container image.
 | :------------------- | :-------------- |
 | /opt/keycloak/data   | Keycloak data   |
 
+

@@ -4,3 +4,4 @@
 # as the user may be configuring via the host.name / advertised.host.name properties
 echo "Removing 'listeners' from server.properties pre-bootstrap"
 sed -i -e '/^listeners=/d' "$KAFKA_HOME/config/server.properties"
+

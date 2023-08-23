@@ -39,3 +39,5 @@ spec:
     parallelism: 2
   flinkProperties:
     taskmanager.numberOfTaskSlots: "1"
+
+    

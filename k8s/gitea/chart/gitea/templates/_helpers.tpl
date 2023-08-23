@@ -13,3 +13,5 @@ http
 {{- printf "%s-gitea-svc.%s.svc.cluster.local" .Release.Name .Release.Namespace -}}
 {{- end -}}
 {{- end -}}
+
+

@@ -85,3 +85,5 @@ tests:
   expect:
     stdout:
       matches: '<title>The install worked successfully! Congratulations!</title>'
+
+

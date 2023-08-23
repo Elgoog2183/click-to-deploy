@@ -104,3 +104,4 @@ actions:
         contains: 'influxdb_users_total 1'
       exitCode:
         equals: 0
+

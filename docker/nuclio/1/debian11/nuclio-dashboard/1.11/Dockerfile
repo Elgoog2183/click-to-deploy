@@ -100,3 +100,4 @@ HEALTHCHECK --interval=1s --timeout=3s CMD /usr/local/bin/uhttpc --url http://12
 ENTRYPOINT []
 CMD ["sh",  "-c", "./runner.sh"]
 
+

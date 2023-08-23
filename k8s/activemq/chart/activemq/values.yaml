@@ -9,3 +9,4 @@ consolePassword: null
 enableBashDebug: false
 admin:
   bindAllHosts: false
+

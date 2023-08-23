@@ -17,3 +17,4 @@ spec:
   selector:
 {{ include "harbor.matchLabels" . | indent 4 }}
     component: registry
+

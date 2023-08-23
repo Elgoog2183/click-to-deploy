@@ -201,3 +201,4 @@ These are the filesystem paths used by the container image.
 | /var/solr/data | Solr data       |
 | /var/solr/logs | Solr logs       |
 
+

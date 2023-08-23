@@ -28,3 +28,4 @@ includedFiles:
 name: Trigger-for-K8s-kafka
 substitutions:
   _SOLUTION_NAME: kafka
+

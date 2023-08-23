@@ -61,3 +61,4 @@ function create_db_user() {
   GRANT ALL ON ${CONCRETE_DB_NAME}.* TO '${CONCRETE_DB_USER}'@'localhost';
 EOSQL
 }
+

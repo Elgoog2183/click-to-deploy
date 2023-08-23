@@ -34,3 +34,4 @@ echo "Restarting Apache2..."
 systemctl restart apache2
 
 echo "Installation complete."
+

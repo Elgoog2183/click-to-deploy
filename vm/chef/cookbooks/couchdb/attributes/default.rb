@@ -15,3 +15,4 @@
 default['couchdb']['debian']['codename'] = 'bullseye'
 default['couchdb']['password'] = 'admTmpP@ssw0rd'
 default['couchdb']['cookie'] = `openssl rand -hex 12`
+

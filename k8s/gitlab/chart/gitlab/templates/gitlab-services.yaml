@@ -19,3 +19,5 @@ spec:
     targetPort: https
   selector: *GitLabLabels
   type: {{ .Values.gitlab.serviceType }}
+
+

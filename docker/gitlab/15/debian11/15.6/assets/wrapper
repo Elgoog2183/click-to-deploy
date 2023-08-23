@@ -146,3 +146,5 @@ gitlab-ctl tail &
 
 # Wait for SIGTERM
 wait
+
+

@@ -138,3 +138,5 @@ spec:
         - name: django-data
           persistentVolumeClaim:
             claimName: {{ .Release.Name }}-nfs-django
+
+

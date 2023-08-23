@@ -193,3 +193,4 @@ spec:
 ```
 Correct execution of the example pipeline:
 ![Jenkins build docker image kaniko](resources/jenkins-build-docker-image-kaniko-pipeline.png)
+

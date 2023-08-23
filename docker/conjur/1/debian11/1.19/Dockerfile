@@ -72,3 +72,5 @@ ENV C2D_RELEASE 1.19.5
 
 ENTRYPOINT [ "/usr/local/bin/entrypoint.sh" ]
 CMD ["conjurctl", "server"]
+
+

@@ -53,3 +53,4 @@ curl -X POST http://localhost:8080/alfresco/service/api/person/changepassword/ad
   --user admin:admin \
   --header "Content-type: application/json" \
   -d "{ newpw: '${alfresco_admin_password}', oldpw: 'admin' }"
+

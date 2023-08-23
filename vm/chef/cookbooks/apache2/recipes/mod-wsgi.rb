@@ -19,3 +19,4 @@ package 'libapache2-mod-wsgi-py3' do
 end
 
 execute 'a2enmod wsgi'
+

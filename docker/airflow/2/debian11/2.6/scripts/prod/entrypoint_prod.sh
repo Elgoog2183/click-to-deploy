@@ -316,3 +316,6 @@ if [[ ${AIRFLOW_COMMAND} =~ ^(scheduler|celery)$ ]] \
 fi
 
 exec "airflow" "${@}"
+
+
+

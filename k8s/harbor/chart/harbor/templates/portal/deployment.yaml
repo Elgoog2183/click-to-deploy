@@ -50,3 +50,4 @@ spec:
       - name: portal-config
         configMap:
           name: "{{ template "harbor.portal" . }}"
+

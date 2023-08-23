@@ -12,3 +12,5 @@ spec:
       protocol: TCP
   selector:
     role: nfs-server
+
+

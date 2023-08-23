@@ -112,3 +112,5 @@ spec:
             storage: {{ .Values.crate.persistence.size | quote }}
         storageClassName: "{{ .Values.crate.persistence.storageClass }}"
 
+
+

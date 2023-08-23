@@ -12,3 +12,4 @@ psycopg2-binary
 pybigquery
 statsd
 statsd-client
+

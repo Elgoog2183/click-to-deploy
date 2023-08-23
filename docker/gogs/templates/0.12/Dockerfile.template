@@ -45,3 +45,6 @@ EXPOSE 22 3000
 
 ENTRYPOINT [ "/usr/local/bin/entrypoint.sh" ]
 CMD [ "/app/gogs/gogs", "web" ]
+
+
+

@@ -12,3 +12,4 @@ spec:
   selector:
     matchLabels: {{ include "harbor.matchLabels" . | nindent 6 }}
 {{- end }}
+

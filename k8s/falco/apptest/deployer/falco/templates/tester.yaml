@@ -30,3 +30,5 @@ spec:
     - name: SERVICE
       value: {{ .Release.Name }}-exporter-svc
   restartPolicy: Never
+
+

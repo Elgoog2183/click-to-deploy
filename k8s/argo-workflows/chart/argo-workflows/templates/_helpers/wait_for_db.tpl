@@ -13,3 +13,5 @@
       done;
       echo 'PostgreSQL is ready'
 {{- end }}
+
+

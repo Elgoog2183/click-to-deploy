@@ -102,3 +102,4 @@ execute 'enable apache modules' do
 end
 
 c2d_startup_script 'concretecms'
+

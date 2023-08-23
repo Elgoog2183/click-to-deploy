@@ -117,3 +117,5 @@ spec:
       resources:
         requests:
           storage: {{ .Values.cassandra.persistence.size }}
+
+

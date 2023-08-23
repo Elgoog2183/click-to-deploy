@@ -9,7 +9,8 @@
   },
   "storage": {
     "backend": "postgres",
-    "db_url": "{{ template "harbor.database.notarySigner" . }}",
+    "db_url": "{{ template "}}",
     "default_alias": "defaultalias"
   }
 }
+

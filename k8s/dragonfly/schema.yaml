@@ -134,3 +134,5 @@ required:
 - db.exporter.password
 - redis.password
 - metrics.exporter.enabled
+
+

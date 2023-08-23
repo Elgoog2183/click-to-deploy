@@ -8,3 +8,5 @@ metadata:
 data:
   pod_template.yaml: |-
     {{- tpl (.Files.Get "files/pod_template.kubernetes-helm-yaml") . | nindent 4 }}
+
+

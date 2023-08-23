@@ -200,3 +200,5 @@ If Gatekeeper is no longer running and there are extra constraints in the cluste
    * Delete all instances of the constraint resource
    * Executing `kubectl patch  crd constrainttemplates.templates.gatekeeper.sh -p '{"metadata":{"finalizers":[]}}' --type=merge`. Note that this will remove all finalizers on every CRD. If this is not something you want to do, the finalizers must be removed individually.
    * Delete the `CRD` and `ConstraintTemplate` resources associated with the unwanted constraint.
+
+   

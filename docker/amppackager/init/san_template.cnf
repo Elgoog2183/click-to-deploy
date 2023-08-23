@@ -11,3 +11,5 @@ commonName                 = $(AMP_PACKAGER_DOMAIN)
 subjectAltName = @alt_names
 [alt_names]
 DNS.1   = $(AMP_PACKAGER_DOMAIN)
+
+

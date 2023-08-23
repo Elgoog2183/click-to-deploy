@@ -37,3 +37,5 @@ spec:
     - name: POSTGRESQL_EXPORTER_SERVICE
       value: {{ .Release.Name }}-postgresql-exporter-svc.{{ .Release.Namespace }}.svc.cluster.local
   restartPolicy: Never
+
+

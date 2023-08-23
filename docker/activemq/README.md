@@ -121,3 +121,7 @@ These are the filesystem paths used by the container image.
 | **Path** | **Description** |
 |:---------|:----------------|
 |/opt/activemq/data| All ActiveMQ files are installed here. |
+
+
+
+

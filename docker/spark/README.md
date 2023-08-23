@@ -106,3 +106,4 @@ These are the environment variables understood by the container image.
 | SPARK_MASTER          | Eg. spark://hostname:7077. Spark master address                       |
 | ENABLE_PROMETHEUS     | false (default) /true. Whether prometheus metrics are enabled or not. |
 | ENABLE_HISTORY        | false (default) /true. Whether history server is enabled or not.      |
+

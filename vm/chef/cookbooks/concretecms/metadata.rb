@@ -20,3 +20,4 @@ depends 'git'
 depends 'composer'
 depends 'nodejs'
 supports 'debian'
+

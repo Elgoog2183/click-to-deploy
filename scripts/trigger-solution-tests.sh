@@ -116,3 +116,4 @@ for solution in "${!builds[@]}"; do
 done
 
 echo "All completed."
+

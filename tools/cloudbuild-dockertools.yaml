@@ -38,3 +38,4 @@ availableSecrets:
   secretManager:
   - versionName: projects/$PROJECT_ID/secrets/GH_TOKEN/versions/latest
     env: 'GH_TOKEN'
+

@@ -132,3 +132,5 @@ spec:
     kind: StatefulSet
   - group: v1
     kind: PersistentVolumeClaim
+
+

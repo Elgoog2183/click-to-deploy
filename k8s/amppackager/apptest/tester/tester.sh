@@ -30,3 +30,5 @@ export EXTERNAL_IP
 for test in /tests/*; do
   testrunner -logtostderr "--test_spec=${test}"
 done
+
+

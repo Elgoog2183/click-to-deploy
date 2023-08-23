@@ -57,3 +57,5 @@ USER ${KAFKA_USER}
 
 ENTRYPOINT ["docker-entrypoint.sh"]
 CMD ["start-kafka.sh"]
+
+

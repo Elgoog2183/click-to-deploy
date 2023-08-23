@@ -19,3 +19,4 @@ Chef/RedundantCode/NamePropertyIsRequired:
 
 Chef/Correctness/MetadataMissingVersion:
   Enabled: false
+

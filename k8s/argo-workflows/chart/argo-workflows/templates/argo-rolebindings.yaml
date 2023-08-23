@@ -136,3 +136,4 @@ subjects:
 - kind: ServiceAccount
   namespace: "{{ .Release.Namespace }}"
   name: "{{ .Values.argo_workflows.sa.server }}"
+

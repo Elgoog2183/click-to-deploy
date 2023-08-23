@@ -123,3 +123,4 @@ These are the environment variables understood by the container image.
 |
 
 You can see full list of acceptable parameters on the official [Superset docs](https://superset.apache.org/docs/installation/configuring-superset/).
+

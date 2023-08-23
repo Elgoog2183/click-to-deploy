@@ -75,3 +75,4 @@ spec:
       nodeSelector:
         kubernetes.io/os: linux
       serviceAccountName: "{{ .Values.argo_workflows.sa.argo }}"
+

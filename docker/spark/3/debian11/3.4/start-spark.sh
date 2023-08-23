@@ -78,3 +78,4 @@ fi
 
 # Start supervisor
 supervisord --nodaemon --configuration /etc/supervisor/conf.d/supervisor.conf
+

@@ -35,3 +35,4 @@ tests:
     stdout:
       matches: 'kafka_brokers 1'
 
+

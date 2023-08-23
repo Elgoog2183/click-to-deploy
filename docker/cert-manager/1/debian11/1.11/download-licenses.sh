@@ -94,3 +94,5 @@ do
 done < <(cat "${components_file}")
 
 echo >&2 "Finished."
+
+

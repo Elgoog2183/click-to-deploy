@@ -166,3 +166,4 @@ _apt@hydra-1-c47497f8-bvnwm:/$ lynx http://127.0.0.1:5555/
 ![allow_access](resources/allow_access.png)
 
 ![access_token](resources/access_token.png)
+

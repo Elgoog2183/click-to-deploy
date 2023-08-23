@@ -105,3 +105,5 @@ kubectl delete -f "${SCRIPT_DIR}/controller.yaml" --namespace "${NAMESPACE}"
 info ""
 
 info "Done!"
+
+

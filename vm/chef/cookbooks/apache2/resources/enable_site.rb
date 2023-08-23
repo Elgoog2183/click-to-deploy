@@ -20,3 +20,4 @@ action :apply do
     command "a2ensite #{new_resource.site}"
   end
 end
+

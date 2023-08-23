@@ -138,3 +138,4 @@ required:
 - name
 - namespace
 - metrics.exporter.enabled
+

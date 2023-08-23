@@ -30,3 +30,4 @@ spec:
     requestPath: /health/ready
     port: 4445
 {{- end }}
+

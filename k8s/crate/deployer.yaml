@@ -42,3 +42,5 @@ spec:
       - name: config-volume
         secret:
           secretName: crate-1-deployer-config
+
+

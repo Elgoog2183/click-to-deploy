@@ -62,3 +62,4 @@ COPY --from=docker.io/longhornio/longhorn-instance-manager:v1.4.2 \
      /usr/local/bin/longhorn-instance-manager /usr/local/bin
 
 ENV C2D_RELEASE 1.4.2
+

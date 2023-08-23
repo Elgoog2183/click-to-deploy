@@ -9,3 +9,5 @@
     privileges: [read, update, execute]
     resource: !variable secretVar
 
+
+

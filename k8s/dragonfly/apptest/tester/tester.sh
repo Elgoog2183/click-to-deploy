@@ -21,3 +21,5 @@ for test in /tests/*; do
   testrunner -logtostderr "--test_spec=${test}"
 done
 #leep 3000
+
+

@@ -35,3 +35,4 @@ actions:
         contains: 'ERROR 1045 (28000): Access denied for user '
       exitCode:
         equals: 1
+

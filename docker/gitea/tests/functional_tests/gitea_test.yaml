@@ -21,3 +21,5 @@ tests:
   expect:
     stdout:
       matches: "Installation - Gitea: Git with a cup of tea"
+
+

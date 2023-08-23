@@ -36,3 +36,4 @@ spec:
           key: kafka_password
 
   restartPolicy: Never
+

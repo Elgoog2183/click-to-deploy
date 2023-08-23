@@ -38,3 +38,4 @@ RUN set -eux \
 
 EXPOSE 9376
 CMD ["/peer-finder"]
+

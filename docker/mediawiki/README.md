@@ -218,3 +218,4 @@ These are the filesystem paths used by the container image.
 | **Path** | **Description** |
 |:---------|:----------------|
 |/var/www/html| All MideiaWiki filesare installed here. |
+

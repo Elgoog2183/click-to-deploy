@@ -52,3 +52,7 @@ install_mysql_client() {
 if [[ ${INSTALL_MYSQL_CLIENT:="true"} == "true" ]]; then
     install_mysql_client "${@}"
 fi
+
+
+
+

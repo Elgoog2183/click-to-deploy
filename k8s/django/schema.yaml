@@ -197,3 +197,5 @@ required:
 - namespace
 - nginx.replicas
 - metrics.exporter.enabled
+
+

@@ -142,3 +142,5 @@ Conjur CLI Client implements the [REST API](https://docs.conjur.org/Latest/en/Co
 privileges, policy, and secrets. You can start a CLI client session as a container local to the Conjur appliance, or remotely on a workstation. 
 Conjur CLI cannot be included in a container image due to licensing restrictions. 
 If it is necessary to use, install it according to the [official documentation](https://docs.cyberark.com/Product-Doc/OnlineHelp/AAM-DAP/12.4/en/Content/Developer/CLI/cli-setup.htm).
+
+

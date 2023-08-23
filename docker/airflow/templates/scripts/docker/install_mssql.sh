@@ -22,3 +22,7 @@ function install_mssql_client() {
 if [[ ${INSTALL_MSSQL_CLIENT:="true"} == "true" ]]; then
     install_mssql_client "${@}"
 fi
+
+
+
+

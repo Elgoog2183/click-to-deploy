@@ -51,3 +51,4 @@ data:
   METRIC_PORT: "8001"
   METRIC_NAMESPACE: harbor
   METRIC_SUBSYSTEM: core
+

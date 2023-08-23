@@ -44,3 +44,4 @@ service 'apache2' do
 end
 
 c2d_startup_script 'subversion'
+

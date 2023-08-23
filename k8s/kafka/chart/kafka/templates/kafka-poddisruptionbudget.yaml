@@ -11,3 +11,4 @@ spec:
     matchLabels: *KafkaDeploymentLabels
   maxUnavailable: 1
 {{- end}}
+

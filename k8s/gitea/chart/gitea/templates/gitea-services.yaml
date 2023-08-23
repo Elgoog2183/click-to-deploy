@@ -22,3 +22,5 @@ spec:
     targetPort: {{ .Values.gitea.sshPort }}
     protocol: TCP
   selector: *GiteaLabels
+
+

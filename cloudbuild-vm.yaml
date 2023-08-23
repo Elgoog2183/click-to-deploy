@@ -56,3 +56,4 @@ steps:
   - --volume=/workspace/vm/tests:/tests:ro
   - --network=cloudbuild
   - gcr.io/cloud-marketplace-tools/vm/imagebuilder:local
+

@@ -26,3 +26,4 @@ for repo in $(cat "${repositories_list}"); do
 done
 
 echo "Finished!"
+

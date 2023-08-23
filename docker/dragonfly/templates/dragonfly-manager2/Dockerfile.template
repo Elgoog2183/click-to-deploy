@@ -82,3 +82,5 @@ RUN apt update && apt install -y curl gettext-base && \
 EXPOSE 8080 65003
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
+
+

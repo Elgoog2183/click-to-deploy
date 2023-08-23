@@ -21,3 +21,4 @@ Generate the configmap data, redacting secrets
 {{- $config := .Values.hydra.config -}}
 {{- toYaml $config -}}
 {{- end -}}
+

@@ -92,3 +92,5 @@ tests:
     expect:
       stdout:
         matches: '{"status":"ok"}'
+
+

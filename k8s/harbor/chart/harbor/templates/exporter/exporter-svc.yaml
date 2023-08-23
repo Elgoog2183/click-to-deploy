@@ -13,3 +13,4 @@ spec:
 {{ include "harbor.matchLabels" . | indent 4 }}
     component: exporter
 {{ end }}
+

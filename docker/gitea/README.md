@@ -211,3 +211,5 @@ These are the filesystem paths used by the container image.
 | **Path**        | **Description**                                               |
 | :-------------- | :------------------------------------------------------------ |
 | /data | Gitea storage with repositories, artifacts, packages, etc... |
+
+

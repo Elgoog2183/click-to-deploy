@@ -30,3 +30,4 @@ postgresql:
     storageClass: standard
     size: 5Gi
 
+

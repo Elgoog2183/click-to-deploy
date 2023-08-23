@@ -2,3 +2,5 @@ properties:
   testerImage:
     default: $REGISTRY/tester:$TAG
     type: string
+
+

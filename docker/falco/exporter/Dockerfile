@@ -13,3 +13,5 @@ EXPOSE 9376/tcp
 EXPOSE 19376/tcp
 
 ENTRYPOINT ["/opt/falco-exporter"]
+
+

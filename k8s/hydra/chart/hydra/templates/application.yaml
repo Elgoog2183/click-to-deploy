@@ -75,3 +75,4 @@ spec:
     kind: Job
   - group: autoscaling/v2
     kind: HorizontalPodAutoscaler
+

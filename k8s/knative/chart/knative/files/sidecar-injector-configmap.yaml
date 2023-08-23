@@ -1123,3 +1123,4 @@ config: |-
         securityContext:
           fsGroup: 1337
         {{- end }}
+

@@ -118,3 +118,4 @@ COPY ./docker-entrypoint.sh /
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
 CMD ["/apache-zookeeper/bin/zkServer.sh", "start-foreground"]
+

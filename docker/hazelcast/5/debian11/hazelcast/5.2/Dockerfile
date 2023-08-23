@@ -71,3 +71,5 @@ WORKDIR ${HZ_HOME}
 
 # Start Hazelcast server
 CMD ["hz", "start"]
+
+

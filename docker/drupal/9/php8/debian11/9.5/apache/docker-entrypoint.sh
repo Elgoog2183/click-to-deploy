@@ -132,3 +132,5 @@ if ! [[ -e index.php && -e core/lib/Drupal.php ]]; then
 fi
 
 exec "$@"
+
+

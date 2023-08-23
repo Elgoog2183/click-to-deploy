@@ -80,3 +80,4 @@ echo "Waiting application to be ready..."
 wait_for_app
 
 echo "Installation complete!"
+

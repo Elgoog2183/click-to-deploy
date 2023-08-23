@@ -20,3 +20,5 @@ USER ory
 
 ENTRYPOINT ["/opt/hydra"]
 CMD ["serve", "all"]
+
+

@@ -65,3 +65,4 @@ spec:
       - name: signer-certificate
         secret:
           secretName: "{{ template "harbor.notary-server" . }}"
+

@@ -25,3 +25,5 @@ if [ $# -gt 0 ];then
 else
     exec /app/gogs/gogs web
 fi
+
+

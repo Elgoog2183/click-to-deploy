@@ -134,3 +134,5 @@ spec:
       resources:
         requests:
           storage: {{ .Values.drupal.persistence.size }}
+
+

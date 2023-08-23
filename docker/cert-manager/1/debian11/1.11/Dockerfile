@@ -45,3 +45,5 @@ RUN mkdir -p /usr/src && \
 		/download-licenses.sh /components.csv /usr/src/licenses
 
 USER cert-manager
+
+

@@ -376,3 +376,4 @@ This Jenkins installation logs to
 ```shell
 kubectl delete -f ${APP_INSTANCE_NAME}_manifest.yaml --namespace $NAMESPACE
 ```
+

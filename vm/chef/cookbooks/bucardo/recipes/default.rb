@@ -19,3 +19,4 @@ end
 
 include_recipe 'bucardo::dbix'
 include_recipe 'bucardo::bucardo-service'
+

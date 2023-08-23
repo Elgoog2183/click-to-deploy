@@ -31,3 +31,4 @@ if [[ -z "${SKIP_DRIVER_LOADER}" ]]; then
 fi
 
 exec "$@"
+

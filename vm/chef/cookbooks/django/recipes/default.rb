@@ -41,3 +41,4 @@ template '/etc/apache2/sites-available/django.conf' do
 end
 
 c2d_startup_script 'django-config-setup'
+

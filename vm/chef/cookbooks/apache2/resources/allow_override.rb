@@ -41,3 +41,4 @@ sed -i "${line_number}r /tmp/patch-allow-override" "$apacheConfig"
 EOH
   end
 end
+

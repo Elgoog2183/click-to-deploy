@@ -42,3 +42,4 @@ COPY --from=build /app/cmd/controller/controller /usr/local/bin
 COPY --from=build /app/LICENSE /usr/share/nuclio/LICENSE
 
 CMD [ "controller" ]
+

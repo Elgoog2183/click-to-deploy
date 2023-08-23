@@ -91,3 +91,4 @@ spec:
       resources:
         requests:
           storage: {{ .Values.jenkins.persistence.size }}
+

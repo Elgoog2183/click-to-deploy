@@ -157,3 +157,4 @@ spec:
         resources:
           requests:
             storage: {{ .Values.persistence.kafka.storageSize }}
+

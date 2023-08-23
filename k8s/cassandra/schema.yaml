@@ -76,3 +76,5 @@ required:
 - namespace
 - cassandra.replicas
 - metrics.exporter.enabled
+
+

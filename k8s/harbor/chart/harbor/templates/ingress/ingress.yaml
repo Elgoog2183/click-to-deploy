@@ -94,3 +94,4 @@ spec:
               number: 4443
     host: {{ .Values.expose.ingress.hosts.notary }}
 {{- end }}
+

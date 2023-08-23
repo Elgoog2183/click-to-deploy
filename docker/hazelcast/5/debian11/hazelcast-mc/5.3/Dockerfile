@@ -109,3 +109,6 @@ USER ${USER_UID}
 
 # Start Management Center
 CMD ["bash", "./bin/hz-mc", "start"]
+
+
+

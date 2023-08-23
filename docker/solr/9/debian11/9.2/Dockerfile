@@ -108,3 +108,4 @@ RUN echo $PATH && which docker-entrypoint.sh
 
 ENTRYPOINT ["docker-entrypoint.sh"]
 CMD ["solr-foreground"]
+

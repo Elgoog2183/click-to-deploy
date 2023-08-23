@@ -12,3 +12,4 @@ actions:
         matches: "kafka_brokers 3"
       exitCode:
         equals: 0
+

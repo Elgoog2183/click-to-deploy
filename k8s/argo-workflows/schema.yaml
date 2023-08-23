@@ -109,3 +109,5 @@ required:
 - persistence.storageClass
 - db.persistence.size
 - metrics.exporter.enabled
+
+

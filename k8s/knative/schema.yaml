@@ -251,3 +251,4 @@ required:
 - istio.ingressgateway.replicas
 - knative.serving.autoscaler.replicas
 - knative.eventing.mtping.replicas
+

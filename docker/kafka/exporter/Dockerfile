@@ -29,3 +29,5 @@ WORKDIR ${EXPORTER_HOME}
 USER ${EXPORTER_USER}
 
 ENTRYPOINT ["kafka_exporter"]
+
+

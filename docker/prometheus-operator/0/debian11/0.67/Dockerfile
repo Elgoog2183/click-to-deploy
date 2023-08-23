@@ -43,3 +43,4 @@ COPY --from=builder /go/src/github.com/prometheus-operator/prometheus-operator/a
 USER 65534
 
 ENTRYPOINT ["/bin/operator"]
+

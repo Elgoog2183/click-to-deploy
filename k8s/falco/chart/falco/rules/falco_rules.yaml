@@ -3134,3 +3134,5 @@
     "Detect Polkit pkexec Local Privilege Escalation Exploit (CVE-2021-4034) (user=%user.loginname uid=%user.loginuid command=%proc.cmdline args=%proc.args)"
   priority: CRITICAL
   tags: [process, mitre_privilege_escalation]
+
+

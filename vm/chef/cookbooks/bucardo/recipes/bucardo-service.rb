@@ -52,3 +52,4 @@ remote_file 'Bucardo License' do
   path '/usr/src/licenses/bucardo_license'
   source 'https://raw.githubusercontent.com/bucardo/bucardo/master/LICENSE'
 end
+

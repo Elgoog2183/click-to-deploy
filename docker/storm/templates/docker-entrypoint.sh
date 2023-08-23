@@ -40,3 +40,4 @@ storm ui >/dev/null 2>&1 &
 echo "Startup finished"
 
 exec "$@"
+

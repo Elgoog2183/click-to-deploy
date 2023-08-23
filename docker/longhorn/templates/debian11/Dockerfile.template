@@ -29,3 +29,4 @@ COPY --from=docker.io/longhornio/longhorn-instance-manager:v{{ $manager.Version 
      /usr/local/bin/longhorn-instance-manager /usr/local/bin
 
 ENV C2D_RELEASE {{ $longhorn.Version }}
+

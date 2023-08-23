@@ -7,3 +7,5 @@ actions:
     expect:
       stdout:
         matches: 'Gitea'
+
+

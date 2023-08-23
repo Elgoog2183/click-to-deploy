@@ -56,3 +56,5 @@ data:
       echo $(cat $webhook | envsubst '${CA_PEM_B64}');
       cat $webhook | envsubst '${CA_PEM_B64}' | kubectl apply -f -
     done
+
+

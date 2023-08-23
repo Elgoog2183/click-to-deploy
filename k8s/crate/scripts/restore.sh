@@ -62,3 +62,5 @@ kubectl exec "${crate_master_name}" -n "${namespace}" \
 
 echo "Table ${table} was successfully restored."
 echo "Done."
+
+

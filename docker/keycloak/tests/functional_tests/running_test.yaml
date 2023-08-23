@@ -45,3 +45,4 @@ tests:
     stdout:
       matches: '"realm":"master"'
 
+

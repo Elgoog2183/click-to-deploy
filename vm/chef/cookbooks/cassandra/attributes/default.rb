@@ -19,3 +19,4 @@ default['cassandra']['repo']['uri'] = 'http://www.apache.org/dist/cassandra/debi
 default['cassandra']['repo']['components'] = ['main']
 default['cassandra']['repo']['distribution'] = '41x'
 default['cassandra']['repo']['keyserver'] = 'https://www.apache.org/dist/cassandra/KEYS'
+

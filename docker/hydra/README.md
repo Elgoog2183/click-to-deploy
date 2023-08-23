@@ -91,3 +91,4 @@ ORY Hydra serves APIs via two ports:
 |:---------|:----------------|
 | TCP 4444 | Public port.         |
 | TCP 4445 | Administrative port. |
+

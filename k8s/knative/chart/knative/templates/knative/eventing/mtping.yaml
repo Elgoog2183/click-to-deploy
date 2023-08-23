@@ -101,3 +101,4 @@ spec:
             seccompProfile:
               type: RuntimeDefault
       serviceAccountName: pingsource-mt-adapter
+

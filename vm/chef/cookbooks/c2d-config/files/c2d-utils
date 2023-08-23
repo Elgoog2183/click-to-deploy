@@ -272,3 +272,4 @@ function wait_for_http_success() {
     return 0
   fi
 }
+

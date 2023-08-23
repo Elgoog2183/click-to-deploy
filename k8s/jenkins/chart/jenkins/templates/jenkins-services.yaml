@@ -46,3 +46,4 @@ spec:
       name: {{ .Release.Name }}-jenkins-ui
       port:
         number: 8080
+

@@ -59,3 +59,5 @@ RUN apt update && apt install -y gettext-base && \
 EXPOSE 65001
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
+
+

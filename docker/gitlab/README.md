@@ -246,3 +246,5 @@ These are the filesystem paths used by the container image.
 | /var/log/gitlab | Gitlab and related services logs                              |
 | /etc/gitlab     | Gitlab configuration files                                    |
 
+
+

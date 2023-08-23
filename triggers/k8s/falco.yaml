@@ -28,3 +28,4 @@ includedFiles:
 name: Trigger-for-K8s-falco
 substitutions:
   _SOLUTION_NAME: falco
+

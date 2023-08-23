@@ -357,3 +357,4 @@ webhooks:
     sideEffects: None
     name: sinkbindings.webhook.sources.knative.dev
     timeoutSeconds: 10
+

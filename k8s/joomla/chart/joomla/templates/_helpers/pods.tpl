@@ -13,3 +13,4 @@
       echo 'MariaDB is ready'
 {{- end }}
 
+

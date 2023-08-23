@@ -50,3 +50,4 @@ tests:
       matches: "test-message"
     stderr:
       matches: "Processed a total of 1 messages"
+

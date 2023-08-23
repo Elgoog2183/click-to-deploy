@@ -64,3 +64,4 @@ echo "Downloading ${table} backup from remote pod..."
 kubectl cp -n "${namespace}" "${crate_master_name}:${remote_backup_dir}" "${local_backup_dir}"
 
 echo "Done. Backup files stored in: ${local_backup_dir}."
+

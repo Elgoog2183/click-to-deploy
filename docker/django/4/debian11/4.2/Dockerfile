@@ -74,3 +74,6 @@ VOLUME /sites
 USER "${C2D_DJANGO_USER}"
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
+
+
+

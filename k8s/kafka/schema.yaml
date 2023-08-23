@@ -107,3 +107,4 @@ required:
 - namespace
 - persistence.kafka.storage.size
 - persistence.zookeeper.storage.size
+

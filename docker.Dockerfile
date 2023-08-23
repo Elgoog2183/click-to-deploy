@@ -26,3 +26,4 @@ RUN set -eux \
     && wget https://github.com/GoogleCloudPlatform/click-to-deploy/releases/download/${DOCKER_TOOLS_TAG}/dockerfiles -O /bin/dockerfiles \
     && chmod +x /bin/cloudbuild \
     && chmod +x /bin/dockerfiles
+

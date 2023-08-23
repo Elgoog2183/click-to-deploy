@@ -69,3 +69,5 @@ exec java \
     -Dhazelcast.mc.http.port=${MC_HTTP_PORT} \
     -Dhazelcast.mc.https.port=${MC_HTTPS_PORT} \
     com.hazelcast.webmonitor.Launcher
+
+

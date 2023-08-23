@@ -39,3 +39,5 @@ spec:
         - name: {{ .Release.Name }}-nfs-server-pvc
           persistentVolumeClaim:
             claimName: {{ .Release.Name }}-nfs-server-pvc
+
+

@@ -27,3 +27,4 @@ data:
   STORAGE: "local"
   STORAGE_LOCAL_ROOTDIR: "/chart_storage"
   STORAGE_TIMESTAMP_TOLERANCE: 1s
+

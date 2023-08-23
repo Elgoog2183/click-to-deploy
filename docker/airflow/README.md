@@ -396,3 +396,7 @@ These are the filesystem paths used by the container image.
 | /opt/airflow/logs    | Airflow logs    |
 | /opt/airflow/plugins | Airflow plugins |
 
+
+
+
+

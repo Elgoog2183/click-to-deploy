@@ -80,3 +80,4 @@ do
 done < <(cat "${components_file}")
 
 >&2 echo "Finished."
+

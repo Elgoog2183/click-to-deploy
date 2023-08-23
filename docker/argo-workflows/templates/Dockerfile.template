@@ -101,3 +101,5 @@ COPY --from=argocli-build /go/src/github.com/argoproj/argo-workflows/dist/argo /
 
 COPY docker-entrypoint.sh /
 ENTRYPOINT [ "/docker-entrypoint.sh" ]
+
+

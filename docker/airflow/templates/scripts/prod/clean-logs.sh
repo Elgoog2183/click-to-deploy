@@ -38,3 +38,7 @@ while true; do
   seconds=$(( $(date -u +%s) % EVERY))
   (( seconds < 1 )) || sleep $((EVERY - seconds))
 done
+
+
+
+

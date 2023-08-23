@@ -45,3 +45,5 @@ COPY --from=build /tmp/schema.yaml /data/
 
 ENV WAIT_FOR_READY_TIMEOUT 1800
 ENV TESTER_TIMEOUT 1800
+
+

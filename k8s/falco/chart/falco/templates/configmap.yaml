@@ -253,3 +253,4 @@ data:
       watch_freq_sec: 1
 
 {{ (.Files.Glob "rules/falco_rules.yaml").AsConfig | indent 2 }}
+

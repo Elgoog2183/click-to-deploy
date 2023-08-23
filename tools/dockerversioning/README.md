@@ -68,3 +68,4 @@ You can use the generated `cloudbuild.yaml` file as followed:
 ``` shell
 gcloud container builds submit --config=cloudbuild.yaml .
 ```
+

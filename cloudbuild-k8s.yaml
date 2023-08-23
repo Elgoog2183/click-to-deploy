@@ -131,3 +131,4 @@ steps:
   - -exc
   - |
     bash <(jq -r --arg solution ${_SOLUTION_NAME} '.[$solution] | .[]? | "\(.env_vars | join(" ")) make -j4 app/verify"' ../../scripts/extra_configs.json)
+

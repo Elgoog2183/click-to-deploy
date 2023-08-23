@@ -15,3 +15,4 @@ actions:
         equals: 0
       stdout:
         equals: 1
+

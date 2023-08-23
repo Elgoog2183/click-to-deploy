@@ -27,3 +27,8 @@ if [[ -n "${AMP_PACKAGER_TOML_CONFIG}" ]]; then
 fi
 
 exec "$@" 
+
+
+
+
+

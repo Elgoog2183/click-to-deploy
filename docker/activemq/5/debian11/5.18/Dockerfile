@@ -68,3 +68,8 @@ EXPOSE ${ACTIVEMQ_TCP} \
 ENTRYPOINT ["/docker-entrypoint.sh"]
 
 CMD ["/bin/bash", "-c", "bin/activemq console"]
+
+
+
+
+

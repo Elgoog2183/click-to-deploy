@@ -6,3 +6,5 @@ SQLALCHEMY_DATABASE_URI = conf.get('core', 'SQL_ALCHEMY_CONN')
 
 # use embedded DB for auth
 AUTH_TYPE = AUTH_DB
+
+

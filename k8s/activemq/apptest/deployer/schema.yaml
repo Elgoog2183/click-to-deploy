@@ -8,3 +8,4 @@ properties:
     type: boolean
     title: Bind all hosts
     default: true
+

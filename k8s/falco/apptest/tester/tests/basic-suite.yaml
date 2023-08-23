@@ -24,3 +24,5 @@ actions:
         contains: '# TYPE promhttp'
       exitCode:
         equals: 0
+
+

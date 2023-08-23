@@ -129,3 +129,6 @@ vendor_sigs.k8s.io_controller-tools;https://pkg.go.dev/sigs.k8s.io/controller-ru
 vendor_sigs.k8s.io_structured-merge-diff;https://pkg.go.dev/sigs.k8s.io/controller-tools?tab=licenses#LICENSE
 vendor_sigs.k8s.io_testing_frameworks;https://pkg.go.dev/sigs.k8s.io/structured-merge-diff?tab=licenses#LICENSE
 vendor_sigs.k8s.io_yaml;https://pkg.go.dev/sigs.k8s.io/testing_frameworks?tab=licenses#LICENSE
+
+
+

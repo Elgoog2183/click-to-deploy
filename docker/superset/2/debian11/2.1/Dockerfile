@@ -49,3 +49,4 @@ COPY ./docker-entrypoint.sh /
 
 ENTRYPOINT ["/docker-entrypoint.sh"]
 # ENTRYPOINT ["tail", "-f", "/dev/null"]
+

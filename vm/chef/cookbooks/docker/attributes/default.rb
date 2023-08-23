@@ -16,3 +16,4 @@ default['docker']['packages'] = ['apt-transport-https', 'ca-certificates', 'curl
 
 default['docker']['compose']['version'] = '1.29.2'
 default['docker']['compose']['sha1'] = '2c149783900f15a910381636791bf68039d546fe'
+

@@ -34,3 +34,4 @@ spec:
       protocol: TCP
       targetPort: kafka-client
   selector: *KafkaDeploymentLabels
+  

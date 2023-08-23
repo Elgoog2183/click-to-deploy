@@ -39,3 +39,5 @@ fi
 # /opt/kafka/bin (for kafka) and /opt/docker-kafka/scripts (for our scripts
 # like create-topics, start-kafka, versions).
 exec "$@"
+
+

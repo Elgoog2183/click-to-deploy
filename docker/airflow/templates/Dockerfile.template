@@ -230,3 +230,6 @@ ENV C2D_RELEASE {{ $airflow.Version }}
 
 ENTRYPOINT ["/usr/bin/dumb-init", "--", "/entrypoint"]
 CMD [""]
+
+
+

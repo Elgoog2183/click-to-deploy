@@ -21,3 +21,5 @@ spec:
 # to connect. Setting clusterIP to None enables connection between Cassandra
 # nodes directly.
   clusterIP: None
+
+

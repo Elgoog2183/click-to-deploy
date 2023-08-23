@@ -23,3 +23,4 @@
 set -e
 
 echo "$3" | /opt/kafka/bin/kafka-console-producer.sh --broker-list "$1" --topic "$2" 2>&1 >/dev/null && echo OK
+
